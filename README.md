@@ -31,11 +31,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ducanh&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Contact Me
-- 📧 yourmail@gmail.com
-- 💼 LinkedIn: linkedin.com/in/yourlink
+- 📧 anducanh125@gmail.com
+- 💼 LinkedIn: 
