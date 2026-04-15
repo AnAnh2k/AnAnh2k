@@ -14,7 +14,7 @@
   </p>
 
   <p>
-    <a href="[./index.html](https://ducanhportfolio.netlify.app/)">Live Portfolio</a> •
+    <a href="https://ducanhportfolio.netlify.app">Live Portfolio</a> •
     <a href="https://github.com/AnAnh2k">GitHub</a> •
     <a href="mailto:anducanh125@gmail.com">Email</a>
   </p>
