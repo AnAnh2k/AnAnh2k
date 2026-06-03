@@ -1,4 +1,4 @@
-````html
+
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:2563eb,100:7c3aed&height=260&section=header&text=An%20Duc%20Anh&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Fullstack%20Developer%20Intern&descSize=20&descAlignY=55"
